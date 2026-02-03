@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "0.0.2",
-  "apkUrl": "https://github.com/emplus-june/luna-web/releases/download/v0.0.2/app-release.apk",
+  "versionCode": 1,
+  "versionName": "0.0.1",
+  "apkUrl": "https://github.com/emplus-june/luna-web/releases/download/v0.0.1/app-release.apk",
   "releaseNotes": "초기 릴리즈",
   "minSdkVersion": 21,
   "mandatory": false
